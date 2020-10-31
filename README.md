@@ -40,4 +40,4 @@ Working with weather data again, this activity uses **Jupyter - gmaps** and **Go
     - Wind Speed (mph) greater than or equal to 5 mph
 - Use the Google Places API to find the first hotel for each city located within 5000 meters of your coordinates
 - Plot the hotels on top of the humidity heatmap with each pin containing **Hotel Name**, **City** and **Country**
-![alt text](VacationPy\Output\FinalHotelsMap.png?raw=True "Final Map Output")
+![alt text](FinalHotelsMap.png)
