@@ -1,0 +1,24 @@
+City,Latitude,Longitude,Temperature (F),Humidity (%),Cloudiness (%),Wind Speed (mph),Nearest Hotel,Country
+gumdag,39.21,54.59,63.79,25.0,0.0,17.13,No hotels nearby,TM
+birjand,32.87,59.22,57.2,2.0,0.0,6.93,Birjand Tourist Hotel,IR
+tiznit,29.58,-9.5,66.31,27.0,0.0,5.14,No hotels nearby,MA
+hasaki,35.73,140.83,65.14,48.0,20.0,13.87,Inubosaki Kanko Hotel,JP
+gorom-gorom,14.44,-0.24,77.99,18.0,0.0,7.67,Mairie de Rambo,BF
+santa cruz,-17.8,-63.17,71.6,43.0,40.0,14.99,Hotel Cortez,BO
+bilma,18.69,12.92,67.6,35.0,0.0,14.63,Expeditions Ténére voyages,NE
+junin,-34.58,-60.94,46.99,45.0,0.0,5.01,Hotel Copahue,AR
+jumla,29.27,82.18,67.51,24.0,28.0,7.99,Hotel Sundar Rara Karnali,NP
+buraydah,26.33,43.98,60.8,38.0,0.0,12.37,Mövenpick Hotel Qassim,SA
+arlit,18.74,7.39,71.64,22.0,0.0,9.04,Hôtel Telwa Bungalow,NE
+balkhash,46.84,74.98,39.2,48.0,0.0,11.18,Family,KZ
+ponta do sol,32.67,-17.1,65.52,48.0,0.0,12.75,Hotel do Campo,PT
+rawson,-43.3,-65.1,57.52,49.0,0.0,9.57,Hotel Punta León,AR
+beloha,-25.17,45.05,79.23,37.0,0.0,11.48,No hotels nearby,MG
+broken hill,-31.95,141.43,69.8,49.0,15.0,14.99,Daydream Motel & Cottages,AU
+niono,14.25,-5.99,75.78,20.0,0.0,7.74,Hôtel Campement,ML
+midland,32.0,-102.08,53.64,47.0,1.0,10.29,DoubleTree by Hilton Hotel Midland Plaza,US
+shimoda,34.67,138.95,59.18,48.0,20.0,14.99,Shimoda Tokyu Hotel,JP
+vredendal,-31.67,18.5,66.13,35.0,0.0,6.76,Tharrakamma Guest House,ZA
+xuchang,34.02,113.82,71.6,40.0,3.0,11.18,Super 8 Hotel,CN
+cap malheureux,-19.98,57.61,73.99,43.0,0.0,13.0,Pereybere Hotel & Spa,MU
+mujiayingzi,42.12,118.78,52.72,33.0,0.0,20.38,Jinjiang Hotel,CN
