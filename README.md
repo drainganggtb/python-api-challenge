@@ -23,7 +23,7 @@ Next, linear regression models were applied to the relationships, this time sepa
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
-All in all, this activity accomplishes the following requirements
+All in all, this activity accomplishes the following requirements:
 - Randomly select at least 500 unique cities based on latitude and longitude
 - Perform a weather check on each of the cities using successive API calls
 - Include a print log of each city as its being processed with the city number and city name
